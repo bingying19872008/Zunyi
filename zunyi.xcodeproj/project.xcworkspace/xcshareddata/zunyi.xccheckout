@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B842393B-F89F-4946-A196-48653F724EC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>zunyi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EED2F3BE-F84C-43DC-A450-1D5936885426</key>
+		<string>https://github.com/bingying19872008/Zunyi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zunyi.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EED2F3BE-F84C-43DC-A450-1D5936885426</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bingying19872008/Zunyi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EED2F3BE-F84C-43DC-A450-1D5936885426</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EED2F3BE-F84C-43DC-A450-1D5936885426</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Zunyi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
